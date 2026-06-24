@@ -8,7 +8,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src={heroImg}  width="170" alt="" />
+          <img src={heroImg}  width="175" alt="" />
         </div>
         <div>
           <h1>Instituto Federal de Brasília</h1>
